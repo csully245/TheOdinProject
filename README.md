@@ -1,5 +1,9 @@
 # Progress on The Odin Project
 
-## Began: 2022/12/29
+## Course: Foundations
 
-## Foundations: 0/9 Subjects Completed
+Lessons Complete:   5/49
+
+Sections Complete:  1/9
+
+Current Lesson:     2.1 Computer Basics

@@ -2,8 +2,8 @@
 
 ## Course: Foundations
 
-Lessons Complete:   5/49
+Lessons Complete:   12/49
 
-Sections Complete:  1/9
+Sections Complete:  2/9
 
-Current Lesson:     2.1 Computer Basics
+Current Section:    Git Basics

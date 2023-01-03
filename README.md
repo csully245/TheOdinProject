@@ -2,8 +2,14 @@
 
 ## Course: Foundations
 
-Lessons Complete:   21/49 (42%)
+Lessons Complete:   22/49 (44%)
 
-Sections Complete:  3/9
+Sections Complete:  4/9
 
-Current Section:    HTML Foundations
+Current Section:    CSS Foundations
+
+Projects:
+
+- HTML Basics: Recipe
+
+    Demonstrates use of basic HTML elements: text, lists, images, links

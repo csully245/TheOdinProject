@@ -2,8 +2,8 @@
 
 ## Course: Foundations
 
-Lessons Complete:   12/49
+Lessons Complete:   14/49 (28%)
 
-Sections Complete:  2/9
+Sections Complete:  3/9
 
-Current Section:    Git Basics
+Current Section:    Intro to HTML and CSS

@@ -2,8 +2,8 @@
 
 ## Course: Foundations
 
-Lessons Complete:   14/49 (28%)
+Lessons Complete:   17/49 (34%)
 
 Sections Complete:  3/9
 
-Current Section:    Intro to HTML and CSS
+Current Section:    HTML Foundations

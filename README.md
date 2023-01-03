@@ -2,7 +2,7 @@
 
 ## Course: Foundations
 
-Lessons Complete:   17/49 (34%)
+Lessons Complete:   21/49 (42%)
 
 Sections Complete:  3/9
 

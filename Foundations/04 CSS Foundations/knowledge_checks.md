@@ -31,3 +31,17 @@
 6. Between a rule that uses one class selector and a rule that uses three type selectors, which rule has the higher specificity?
 
     One class selector
+
+## 4.2 Inspecting HTML And CSS
+
+1. How do you select a specific element on your page with your browser’s developer tools?
+
+    Right click > Inspect Element
+
+2. What does a strikethrough in a CSS element mean in your browser’s developer tools?
+
+    The style rule has been superceded by another rule.
+
+3. How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
+
+    Inspect Element > Styles tab

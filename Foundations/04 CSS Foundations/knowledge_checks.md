@@ -45,3 +45,57 @@
 3. How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
 
     Inspect Element > Styles tab
+
+## 4.3 The Box Model
+
+1. From inside to outside, what is the order of box-model properties?
+
+    Padding, border, margin
+
+2. What does the box-sizing CSS property do?
+
+    Sets the total size of the element to `width` and turns all other spacing inwards
+
+3. What is the difference between the standard and alternative box model?
+
+    Whether `box-sizing` is used
+
+4. Would you use margin or padding to create more space between 2 elements?
+
+    Margin
+
+5. Would you use margin or padding to create more space between the contents of an element and its border?
+
+    Padding
+
+6. Would you use margin or padding if you wanted two elements to overlap each other?
+
+    Margin
+
+## Block and Inline
+
+1. What is the difference between a block element and an inline element?
+
+    Block elements are placed on a new line. Vertical margin is respected.
+
+    Inline elements are placed on the current line. Vertical margin is not respected.
+
+2. What is the difference between an inline element and an inline-block element?
+
+    Inline-block elements are on the same line, but their margin is respected.
+
+3. Is an h1 block or inline?
+
+    Block
+
+4. Is button block or inline?
+
+    Inline
+
+5. Is div block or inline?
+
+    Block
+
+6. Is span block or inline?
+
+    Inline

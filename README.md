@@ -2,11 +2,11 @@
 
 ## Course: Foundations
 
-Lessons Complete:   23/49 (46%)
+Lessons Complete:   26/49 (53%)
 
-Sections Complete:  4/9
+Sections Complete:  5/9
 
-Current Section:    CSS Foundations
+Current Section:    Flexbox
 
 Projects:
 
